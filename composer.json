@@ -1,5 +1,5 @@
 {
-  "name": "elasticquent/elasticquent",
+  "name": "melnykviktor/elasticquent",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
@@ -29,7 +29,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Elasticquent\\": "src/"
+      "MelnykViktor\\Elasticquent\\": "src/"
     }
   },
   "extra": {
